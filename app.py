@@ -1,5 +1,5 @@
-from CalculoIMC import CalculoIMC
+from Calculadora.IMCCalculator import IMCCalculator
 
-iniciar = CalculoIMC()
+iniciar = IMCCalculator()
 
-iniciar.run()
+iniciar.loop()
